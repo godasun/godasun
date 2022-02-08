@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @godasun
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java/javascript
 
 <!---
 godasun/godasun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
